@@ -15,3 +15,6 @@ I will put in this repository some incredible effects that I learned in CSS. I'l
 - Code of the effect in .zip
 
 I did these effects before I studied preprocessors, so the code is not so clean, but it is functional
+
+A maioria dos códigos eu aprendi via tutorial no Youtube, você pode conferi-los nesse link:
+https://www.youtube.com/watch?v=wdewhOhFvOM&list=PL0GzrmxjRWEywUiwlFXjWgldpAy-FEQ8i&index=13
